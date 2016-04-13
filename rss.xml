@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[the artscape]]></title>
+        <description><![CDATA[the artscape]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 16:00:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to my Portfolio]]></title>
+            <description><![CDATA[<article><h1>Welcome to my Portfolio</h1><p>This is my corner of the internet. . Please keep your expectation within limits, any  judgements and sarcastic jokes are prohibited. If you adhere to the lack of creative restrictions you will have a great time. ENJOY THE RIDE.  </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5fe157937446ae05a1f856723dd166d809a0b4e5.jpg"></article>]]></description>
+            <link>undefinedwelcome-to-my-portfolio/index.html</link>
+            <guid isPermaLink="false">fb5509a6-1085-4802-856d-b85a3a038235</guid>
+            <pubDate>Wed, 13 Apr 2016 16:00:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

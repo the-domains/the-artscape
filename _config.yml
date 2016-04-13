@@ -1,0 +1,28 @@
+name: the artscape
+favicon: null
+layout_spectrum: 0.5523129424545914
+typography_spectrum: 0.14893127675168216
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2837939225137234
+  lightness: 0.6477301982231438
+  saturation: 0.4757444569841027
+  rhythmicContrast: 0.7438115160912275
+purpose: []

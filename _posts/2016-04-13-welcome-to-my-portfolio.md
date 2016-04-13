@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This is my corner of the internet. Welcome to my Portfolio. Please keep your expectation within limits, any \_judgements and sarcastic jokes are prohibited. If you adhere to the lack of creative restrictions you will have a great time. ENJOY THE RIDE. \_"
-datePublished: '2016-04-13T16:00:24.520Z'
-dateModified: '2016-04-13T16:00:17.852Z'
+datePublished: '2016-04-13T16:00:57.643Z'
+dateModified: '2016-04-13T16:00:56.765Z'
 title: Welcome to my Portfolio
 author: []
 authors: []
